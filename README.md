@@ -12,7 +12,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Course Work
 - ### Data Structures and Algorithms
     - [Table of Contents](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_TableofContents.ipynb) : In this file, I created a table of contents for a Data Science technical book using a tree structure to organize my data hierarchically. Additionally, I developed two functions- one to insert chapters or subchapter titles and another to print the table of contents.
-    - [Book Analysis](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_BookAnalysis.ipynb) : In this file, I analyzed the book "Alice's Adventures in Wonderland" and identified the distribution of each letter from a to z, the top 40 words used in the text, the top 20 bigrams used in the text, and the top 20 trigrams used in the text. 
+    - [Book Analysis](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_BookAnalysis.ipynb) : In this file, I analyzed the book "Alice's Adventures in Wonderland" and identified the distribution of each letter from a to z, the top 40 words used in the text, the top 20 bigrams used in the text, and the top 20 trigrams used in the text.
+    - [Probability of Coincidences Related to Birthdays](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_ProbabilityofCoincidencesRelatedtoBirthdays.ipynb) : In this file, __
 
 ## Certificates
 - Google Data Analytics: In progress
