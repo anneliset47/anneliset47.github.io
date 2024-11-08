@@ -11,9 +11,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Course Work
 - ### Data Structures and Algorithms
-    - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
-    - [Bayesian Statistics](https://github.com/archd3sai/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb) : In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
-    - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Statistical-Methods/blob/master/GMM-EM.ipynb): In this file, I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.
+    - [Table of Contents](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_TableofContents.ipynb) : In this file, I created a table of contents for a Data Science technical book using a tree structure to organize my data hierarchically. Additionally, I developed two functions- one to insert chapters or subchapter titles and another to print the table of contents.
+    - [Book Analysis](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_BookAnalysis.ipynb) : In this file, I analyzed the book "Alice's Adventures in Wonderland" and identified the distribution of each letter from a to z, the top 40 words used in the text, the top 20 bigrams used in the text, and the top 20 trigrams used in the text. 
 
 ## Certificates
 - Google Data Analytics: In progress
