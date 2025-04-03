@@ -1,5 +1,5 @@
 # Data Science Portfolio - Annelise Thorn
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. 
+This portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. 
 - **Email**: [anneliset47@gmail.com](anneliset47@gmail.com)
 - **LinkedIn**: [linkedin.com/in/annelisethorn/](https://www.linkedin.com/in/annelisethorn/)
 
