@@ -16,7 +16,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     - [Book Analysis](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_BookAnalysis.ipynb) : In this file, I analyzed the book "Alice's Adventures in Wonderland" and identified the distribution of each letter from a to z, the top 40 words used in the text, the top 20 bigrams used in the text, and the top 20 trigrams used in the text.
     - [Probability of Coincidences Related to Birthdays](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_ProbabilityofCoincidencesRelatedtoBirthdays.ipynb) : In this assignment, I developed algorithms to calculate probabilities for shared birthdays, specific birthday distributions, and age statistics. I optimized each algorithm for scalability, analyzing their complexities, and used Matplotlib to visually represent the results. Additionally, I modified the algorithms to handle large datasets, ensuring they remained efficient with 1,000,000 members.
 - ### Data Mining
-    - l         
+    - This project is a comprehensive group assignment that applies concepts learned in the Data Mining course. My team and I worked with real data about the opioid crisis to answer research questions, perform data mining techniques, and communicate findings through a professional project website.         
 - ### Information Visualization
     - l         
 - ### Statistical Methods and Applications I
