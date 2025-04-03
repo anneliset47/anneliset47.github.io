@@ -19,7 +19,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     - https://sites.google.com/view/data-mining-project-group-one Data Mining Project- Opioid Crisis: This project is a comprehensive group assignment that applies concepts learned in the Data Mining course. My team and I worked with real data about the opioid crisis to answer research questions, perform data mining techniques, and communicate findings through a professional project website.         
 - ### Information Visualization
     - https://docs.google.com/presentation/d/10Q5qovXs2K-rzptclcjIPUHhX2IiyxiJ/edit?usp=sharing&ouid=116256978185437743055&rtpof=true&sd=true Real World Chart Transformations: 
-    - https://docs.google.com/presentation/d/1dVRHkbIT6qzb0-3JFs2Tq9DzaA7MN2vv/edit?usp=sharing&ouid=116256978185437743055&rtpof=true&sd=true Real World Data Dashboard:        
+    - https://docs.google.com/presentation/d/1dVRHkbIT6qzb0-3JFs2Tq9DzaA7MN2vv/edit?usp=sharing&ouid=116256978185437743055&rtpof=true&sd=true Real World Data Dashboard:
+        - ![Screenshot 2025-04-02 at 10 06 48 PM](https://github.com/user-attachments/assets/c79c9ced-493d-49fa-8fb0-184fa7bc2932)
+            - Dashboard filtered by students in the engineering department 
 - ### Statistical Methods and Applications I
     - l     
 
