@@ -1,11 +1,11 @@
 # Data Science Portfolio - Annelise Thorn
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. 
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. 
 - **Email**: [anneliset47@gmail.com](anneliset47@gmail.com)
 - **LinkedIn**: [linkedin.com/in/annelisethorn/](https://www.linkedin.com/in/annelisethorn/)
 
 ## Core Competencies
-- **Programming Languages**: Python, R, MATLAB, SQL
-- **Big Data & Machine Learning**: Python (eg. NumPy, Matplotlib, scikit-learn, pandas)
+- **Programming Languages**: Python, R, MATLAB, SQL, Scala
+- **Big Data & Machine Learning**: Python (eg. NumPy, Matplotlib, seaborn, scikit-learn, pandas)
 - **Data Science & Miscellaneous Technologies**: Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics, Experimental design, Hypothesis testing, Excel, OOP
 - **Software**: Fiji, JMP, ImageJ, CLC Genomics Workbench, Prism, Epic Systems, FileMaker Pro
 
@@ -15,6 +15,12 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     - [Table of Contents](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_TableofContents.ipynb) : In this file, I created a table of contents for a Data Science technical book using a tree structure to organize my data hierarchically. Additionally, I developed two functions- one to insert chapters or subchapter titles and another to print the table of contents.
     - [Book Analysis](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_BookAnalysis.ipynb) : In this file, I analyzed the book "Alice's Adventures in Wonderland" and identified the distribution of each letter from a to z, the top 40 words used in the text, the top 20 bigrams used in the text, and the top 20 trigrams used in the text.
     - [Probability of Coincidences Related to Birthdays](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_ProbabilityofCoincidencesRelatedtoBirthdays.ipynb) : In this assignment, I developed algorithms to calculate probabilities for shared birthdays, specific birthday distributions, and age statistics. I optimized each algorithm for scalability, analyzing their complexities, and used Matplotlib to visually represent the results. Additionally, I modified the algorithms to handle large datasets, ensuring they remained efficient with 1,000,000 members.
+- ### Data Mining
+    - l         
+- ### Information Visualization
+    - l         
+- ### Statistical Methods and Applications I
+    - l     
 
 ## Certificates
 - Google Data Analytics: In progress
