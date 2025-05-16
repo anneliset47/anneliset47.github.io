@@ -27,6 +27,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Certificates
 - Google Data Analytics: In progress
+    - Analyzed and visualized data using SQL, R, and Tableau, supporting case studies and dashboard creation 
 
 ## Publications
 - [Publication](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.6_suppl.112): Disparities in Germline Testing by Race/Ethnicity and Preferred Language in Patients With Prostate Cancer, Journal of Clinical Oncology Vol. 41, Issue 6 · Feb 21, 2023
