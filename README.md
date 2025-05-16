@@ -4,10 +4,10 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/in/annelisethorn/](https://www.linkedin.com/in/annelisethorn/)
 
 ## Core Competencies
-- **Programming Languages**: Python, R, MATLAB, SQL, Scala
-- **Big Data & Machine Learning**: Python (eg. NumPy, Matplotlib, seaborn, scikit-learn, pandas)
-- **Data Science & Miscellaneous Technologies**: Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics, Experimental design, Hypothesis testing, Excel, OOP
-- **Software**: Fiji, JMP, ImageJ, CLC Genomics Workbench, Prism, Epic Systems, FileMaker Pro
+- **Languages & Tools**: Python, R, SQL, Scala, Excel, OOP
+- **Libraries & Frameworks**: NumPy, Matplotlib, Pandas, Seaborn, Scikit-learn, PyTorch, TensorFlow
+- **Technologies**: Data pipelines, Statistics, Hypothesis Testing, Visualization, Experimental Design
+- **Software**: Fiji, JMP, ImageJ, CLC Genomics Workbench, Prism, Epic, FileMaker Pro
 
 ## Course Work
 - ### Data Structures and Algorithms
