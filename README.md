@@ -6,8 +6,12 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Core Competencies
 - **Languages & Tools**: Python, R, SQL, Scala, Excel, OOP
 - **Libraries & Frameworks**: NumPy, Matplotlib, Pandas, Seaborn, Scikit-learn, PyTorch, TensorFlow
-- **Technologies**: Data pipelines, Statistics, Hypothesis Testing, Visualization, Experimental Design
+- **Technologies**: Data Pipelines, Statistics, Hypothesis Testing, Visualization, Experimental Design
 - **Software**: Tableau, Power BI, Fiji, JMP, ImageJ, CLC Genomics Workbench, Prism, Epic, FileMaker Pro
+
+## CU Anchsutz Clinical Genomics Internship
+- ### Tandem Repeat Variant Frequency Plots
+    - [Variant Frequency Plotting Algorithm](https://github.com/anneliset47/anneliset47.github.io/blob/main/DSA_Dijkstra'sAlgorithm_Traffic.ipynb): For this assignment, I wrote a python algorithm to extract tandem repeat variant frequency data from VCF files and plot them using plotly. The plots are interactive and labeled with Benign and Pathogenic regions that were extracted from a JSON file. 
 
 ## Course Work
 - ### Data Structures and Algorithms
