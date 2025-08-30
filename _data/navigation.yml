@@ -1,0 +1,16 @@
+# _data/navigation.yml
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Coursework"
+    url: /coursework/
+  - title: "Publications"
+    url: /publications/
+  - title: "More"
+    children:
+      - title: "About"
+        url: /about/
+      - title: "Contact"
+        url: /contact/

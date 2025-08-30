@@ -1,0 +1,10 @@
+---
+# Only front matter so Jekyll builds this file
+---
+
+@import "minimal-mistakes/skins/default"; // change if you picked another skin
+@import "minimal-mistakes";               // import the theme
+
+h1.project-name {
+  display: none;
+}

@@ -1,4 +1,38 @@
-theme: jekyll-theme-cayman
-sass:
-  style: compressed
-title: "Annelise Thorn Data Science Portfolio"
+title: "Annelise T."
+description: "Portfolio • Projects • Coursework"
+url: "https://anneliset47.github.io"
+baseurl: ""  # for user/username.github.io sites
+
+# use Minimal Mistakes via GitHub Pages
+remote_theme: "mmistakes/minimal-mistakes"
+
+# pick a skin (others: air, aqua, contrast, dark, dirt, neon, sunrise)
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# navigation & author
+collections:
+  pages:
+    output: true
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: single
+      author_profile: true
+      toc: false
+      read_time: false
+
+# point the theme to your nav data
+navigation:
+  primary: true
+
+author: Annelise
+
+search: true
+breadcrumbs: true
+
