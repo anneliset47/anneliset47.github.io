@@ -5,6 +5,14 @@
 @import "minimal-mistakes/skins/default"; // change if you picked another skin
 @import "minimal-mistakes";               // import the theme
 
-h1.project-name {
-  display: none;
+/* Add a caret to the parent item */
+.greedy-nav .visible-links > li.dropdown > a::after,
+.greedy-nav .visible-links > li.has-children > a::after {
+  content: " ▾";
 }
+
+/* Open dropdown on hover as well as click */
+.greedy-nav .visible-links > li:hover > ul {
+  display: block;
+}
+
