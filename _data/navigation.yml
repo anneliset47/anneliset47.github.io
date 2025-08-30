@@ -1,15 +1,15 @@
 # _data/navigation.yml
 main:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects/
-  - title: "Coursework"
-    url: /coursework/
-  - title: "Publications"
-    url: /publications/
-  - title: "More"
+  - title: "Menu"
     children:
+      - title: "Home"
+        url: /
+      - title: "Projects"
+        url: /projects/
+      - title: "Coursework"
+        url: /coursework/
+      - title: "Publications"
+        url: /publications/
       - title: "About"
         url: /about/
       - title: "Contact"
