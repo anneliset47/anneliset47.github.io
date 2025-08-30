@@ -1,12 +1,12 @@
 Annelise:
-  name: "Annelise T."
+  name: "Annelise Thorn"
   avatar: /assets/images/avatar.jpg # optional
   bio: "CS + ML; I build tools and write about them."
-  location: "New York, NY"
+  location: "Raleigh, NC"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/anneliset47"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/<your-handle>/"
+      url: "https://www.linkedin.com/in/annelise-thorn/"
