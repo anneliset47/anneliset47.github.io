@@ -1,6 +1,6 @@
 # _data/navigation.yml
 main:
-  - title: "Menu"
+  - title: "Pages"
     children:
       - title: "Home"
         url: /
