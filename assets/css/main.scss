@@ -5,13 +5,7 @@
 @import "minimal-mistakes/skins/default"; // change if you picked another skin
 @import "minimal-mistakes";               // import the theme
 
-/* caret after parent item */
-.greedy-nav .visible-links > li.has-children > a::after {
-  content: " ▾";
-}
+.greedy-nav .visible-links > li.has-children > a::after { content: " ▾"; }
+.greedy-nav .visible-links > li:hover > ul { display: block; }
 
-/* open dropdown on hover too */
-.greedy-nav .visible-links > li:hover > ul {
-  display: block;
-}
 
