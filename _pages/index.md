@@ -10,9 +10,9 @@ excerpt: "I build ML models and data apps that turn messy data into clear decisi
 
 <p class="page-cta">
   <a class="btn btn--primary" href="/projects/">View my work</a>
-  <a class="btn btn--light-outline" href="https://github.com/anneliset47">GitHub</a>
-  <a class="btn btn--light-outline" href="https://www.linkedin.com/in/annelisethorn/">LinkedIn</a>
-  <a class="btn btn--inverse" href="/downloads/Annelise_Thorn_Resume.pdf">Download résumé</a>
+  <a class="btn btn--primary" href="https://github.com/anneliset47">GitHub</a>
+  <a class="btn btn--primary" href="https://www.linkedin.com/in/annelisethorn/">LinkedIn</a>
+  <a class="btn btn--primary" href="/downloads/Annelise_Thorn_Resume.pdf">Download résumé</a>
 </p>
 
 {% include feature_row id="feature_row" %}
