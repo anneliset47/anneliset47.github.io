@@ -51,4 +51,11 @@
 .grid__wrapper .archive__item p  { margin-bottom: .45rem; }
 .grid__wrapper .btn { margin-right: .4rem; margin-bottom: .25rem; }
 
+/* Ensure Minimal Mistakes dropdown shows on hover */
+.masthead__menu .visible-links > li:hover > ul,
+.masthead__menu .visible-links > li:focus-within > ul {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
 
