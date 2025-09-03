@@ -1,16 +1,13 @@
 main:
-  - title: "Pages"
-    url: "#"          # keeps parent tappable; required on mobile
-    children:
-      - title: "Home"
-        url: /
-      - title: "Projects"
-        url: /projects/
-      - title: "Coursework"
-        url: /coursework/
-      - title: "Publications"
-        url: /publications/
-      - title: "About"
-        url: /about/
-      - title: "Contact"
-        url: /contact/
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Coursework"
+    url: /coursework/
+  - title: "Publications"
+    url: /publications/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
