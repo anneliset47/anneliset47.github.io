@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/projects.svg
     alt: "Projects"
     title: "Projects"
-    excerpt: "Selected work with links to code and write-ups."
+    excerpt: "Work with links to code and write-ups."
     url: "/projects/"
     btn_label: "View projects"
     btn_class: "btn--primary"
