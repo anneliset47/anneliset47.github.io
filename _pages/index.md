@@ -6,6 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.35"
 excerpt: "I build ML models and data apps that turn messy data into clear decisions — with Python, SQL, and dashboards."
+---
 
 <p class="page-cta">
   <a class="btn btn--primary" href="/projects/">View my work</a>
