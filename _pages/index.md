@@ -5,8 +5,8 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
-  overlay_image: /assets/images/hero.jpg # optional: remove if you don't have one
-excerpt: "Projects, coursework, and publications."
+  overlay_image: /assets/images/avatar.jpg # optional: remove if you don't have one
+excerpt: "I’m a data scientist with experience in machine learning, data visualization, and applied research. I enjoy turning data into actionable insights and building tools that make a difference."
 feature_row:
   - image_path: /assets/images/projects.jpg
     alt: "Projects"
