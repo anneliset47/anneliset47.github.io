@@ -5,6 +5,28 @@
 @import "minimal-mistakes/skins/default"; // change if you picked another skin
 @import "minimal-mistakes";               // import the theme
 
+/* Show submenu on hover/focus (desktop) */
+.masthead .greedy-nav .visible-links > li:hover > ul.sub-menu,
+.masthead .greedy-nav .visible-links > li:focus-within > ul.sub-menu {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Keep the menu above the hero/banner */
+.masthead,
+.masthead .greedy-nav,
+.masthead .greedy-nav ul.sub-menu {
+  position: relative;
+  z-index: 9999;
+}
+
+/* (Optional) caret and basic styling */
+.greedy-nav .visible-links > li.has-children > a::after { content: " ▾"; }
+.masthead .greedy-nav ul.sub-menu { background:#fff; box-shadow:0 8px 24px rgba(0,0,0,.12); border-radius:8px; }
+.masthead .greedy-nav ul.sub-menu li a { display:block; padding:.5rem 1rem; white-space:nowrap; }
+
+
 .greedy-nav .visible-links > li.has-children > a::after { content: " ▾"; }
 .greedy-nav .visible-links > li:hover > ul { display: block; }
 

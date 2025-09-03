@@ -27,10 +27,6 @@ defaults:
       toc: false
       read_time: false
 
-# point the theme to your nav data
-navigation:
-  primary: true
-
 author: Annelise Thorn
 
 search: true
