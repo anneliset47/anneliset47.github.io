@@ -21,11 +21,13 @@ feature_row:
     excerpt: "Highlights from classes and assignments."
     url: "/coursework/"
     btn_label: "View coursework"
+    btn_class: "btn--primary"
   - image_path: /assets/images/publications.svg
     alt: "Publications"
     title: "Publications"
     excerpt: "Papers and presentations."
     url: "/publications/"
     btn_label: "View publications"
+    btn_class: "btn--primary"
 ---
 {% include feature_row id="feature_row" %}

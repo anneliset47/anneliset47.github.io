@@ -8,4 +8,16 @@
 .greedy-nav .visible-links > li.has-children > a::after { content: " ▾"; }
 .greedy-nav .visible-links > li:hover > ul { display: block; }
 
+/* --- Feature row image tweaks --- */
+.feature__wrapper .archive__item-teaser {
+  display: flex;
+  justify-content: center;   /* center horizontally */
+}
+
+.feature__wrapper .archive__item-teaser img {
+  width: 50%;                /* ~half size */
+  height: auto;
+  display: block;
+  margin: 0 auto;            /* fallback centering */
+}
 
