@@ -6,34 +6,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.35"
 excerpt: "I build ML models and data apps that turn messy data into clear decisions — with Python, SQL, and dashboards."
-feature_row:
-  - image_path: /assets/images/projects.svg
-    alt: "Projects"
-    title: "Projects"
-    excerpt: "Modeling, analytics, and data apps I’ve shipped."
-    url: "/projects/"
-    btn_label: "View projects"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/coursework.svg
-    alt: "Coursework"
-    title: "Coursework"
-    excerpt: "Highlights from classes and assignments."
-    url: "/coursework/"
-    btn_label: "View coursework"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/publications.svg
-    alt: "Publications"
-    title: "Publications"
-    excerpt: "Papers and presentations."
-    url: "/publications/"
-    btn_label: "View publications"
-    btn_class: "btn--primary"
----
 
 <p class="page-cta">
   <a class="btn btn--primary" href="/projects/">View my work</a>
-  <a class="btn btn--light-outline" href="https://github.com/YOUR_GITHUB">GitHub</a>
-  <a class="btn btn--light-outline" href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
+  <a class="btn btn--light-outline" href="https://github.com/anneliset47">GitHub</a>
+  <a class="btn btn--light-outline" href="https://www.linkedin.com/in/annelisethorn/">LinkedIn</a>
   <a class="btn btn--inverse" href="/downloads/Annelise_Thorn_Resume.pdf">Download résumé</a>
 </p>
 
