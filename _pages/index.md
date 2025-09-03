@@ -47,4 +47,4 @@ I’m open to data science positions and research collaborations.
 
 📧 **Email:** anneliset47@gmail.com
 💼 **LinkedIn:** /in/annelisethorn 
-🧪 **GitHub:** /anneliset47
+💻 **GitHub:** /anneliset47
