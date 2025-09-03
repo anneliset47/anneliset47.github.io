@@ -46,6 +46,6 @@ excerpt: "I build ML models and data apps that turn messy data into clear decisi
 
 I’m open to data science positions and research collaborations.
 
-📧 **Email:** anneliset47@gmail.com  
-💼 **LinkedIn:** /in/annelisethorn  
-💻 **GitHub:** /anneliset47  
+📧 **Email:** [anneliset47@gmail.com](anneliset47@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/annelisethorn/](https://www.linkedin.com/in/annelisethorn/) 
+💻 **GitHub:** [github.com/anneliset47](github.com/anneliset47)
