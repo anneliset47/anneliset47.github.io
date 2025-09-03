@@ -17,7 +17,7 @@ excerpt: "I build ML models and data apps that turn messy data into clear decisi
 
 {% include feature_row id="feature_row" %}
 
-## Featured projects
+<!-- ## Featured projects
 
 <div class="grid__wrapper">
   <article class="archive__item">
@@ -40,7 +40,7 @@ excerpt: "I build ML models and data apps that turn messy data into clear decisi
       <a class="btn" href="/demos/covid/">Live demo</a>
     </p>
   </article>
-</div>
+</div> -->
 
 ## Let’s connect
 
