@@ -11,13 +11,14 @@
 /* --- Feature row image tweaks --- */
 .feature__wrapper .archive__item-teaser {
   display: flex;
-  justify-content: left;   /* align left */
+  justify-content: flex-start;   /* push to left instead of center */
 }
 
 .feature__wrapper .archive__item-teaser img {
-  width: 20%;                /* ~fifth size */
+  width: 50%;     /* or max-width: 180px; if you prefer a fixed size */
   height: auto;
   display: block;
-  margin: 0 auto;            /* fallback centering */
+  margin: 0;      /* remove auto-centering */
 }
+
 
