@@ -1,6 +1,6 @@
-# _data/navigation.yml
 main:
   - title: "Pages"
+    url: "#"           # give the parent a harmless link (helps on touch devices)
     children:
       - title: "Home"
         url: /
