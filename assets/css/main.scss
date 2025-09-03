@@ -21,3 +21,34 @@
     margin: 0 auto;            /* fallback centering */
 }
 
+/* --- Homepage polish --- */
+
+/* Tight, consistent buttons in hero */
+.page-cta .btn { margin-right: .5rem; margin-bottom: .5rem; }
+
+/* Feature tiles: card feel + hover */
+.feature__wrapper .archive__item {
+  padding: 1rem 1rem 2rem;
+  border-radius: 14px;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.feature__wrapper .archive__item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0,0,0,.06);
+}
+
+/* Left-align teaser images and make a consistent size */
+.feature__wrapper .archive__item-teaser { text-align: left !important; }
+.feature__wrapper .archive__item-teaser img {
+  max-width: 110px;         /* consistent icon size */
+  height: auto;
+  display: inline-block;    /* respects text-align */
+  margin: 0 0 12px 0 !important;
+}
+
+/* Featured projects grid spacing */
+.grid__wrapper .archive__item h3 { margin-bottom: .35rem; }
+.grid__wrapper .archive__item p  { margin-bottom: .45rem; }
+.grid__wrapper .btn { margin-right: .4rem; margin-bottom: .25rem; }
+
+
