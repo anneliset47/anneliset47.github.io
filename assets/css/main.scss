@@ -110,3 +110,9 @@
   background: rgba(0,0,0,.04);
 }
 
+/* Hide the "Updated" meta line under the page title */
+.page__meta { display: none !important; }
+
+/* Hide the Previous / Next pager at the bottom */
+.page__footer .pagination,
+.pagination--pager { display: none !important; }

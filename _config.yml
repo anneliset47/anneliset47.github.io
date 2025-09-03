@@ -20,12 +20,14 @@ collections:
   pages:
     output: true
 defaults:
-  - scope: { path: "" }
+  - scope:
+      path: ""
+      type: pages
     values:
-      layout: single
-      author_profile: true
-      toc: false
+      show_date: false     # hides date/updated meta
       read_time: false
+      share: false
+      related: false
 
 author: Annelise Thorn
 
