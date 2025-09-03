@@ -1,7 +1,6 @@
-# _data/navigation.yml
 main:
   - title: "Pages"
-    url: "#"            # parent gets a harmless link (helps on touch devices)
+    url: "#"          # keeps parent tappable; required on mobile
     children:
       - title: "Home"
         url: /

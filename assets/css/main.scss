@@ -51,11 +51,40 @@
 .grid__wrapper .archive__item p  { margin-bottom: .45rem; }
 .grid__wrapper .btn { margin-right: .4rem; margin-bottom: .25rem; }
 
-/* Ensure Minimal Mistakes dropdown shows on hover */
-.masthead__menu .visible-links > li:hover > ul,
-.masthead__menu .visible-links > li:focus-within > ul {
+/* --- Fix Minimal Mistakes dropdown visibility & stacking --- */
+
+/* Show submenu on hover/focus (desktop) */
+.masthead .greedy-nav .visible-links > li:hover > ul.sub-menu,
+.masthead .greedy-nav .visible-links > li:focus-within > ul.sub-menu {
   display: block !important;
   opacity: 1 !important;
   visibility: visible !important;
+}
+
+/* Make sure submenu sits ABOVE the hero/banner */
+.masthead,
+.masthead .greedy-nav,
+.masthead .greedy-nav ul.sub-menu {
+  position: relative;
+  z-index: 9999 !important;
+}
+
+/* Basic submenu styling (in case custom CSS stripped it) */
+.masthead .greedy-nav ul.sub-menu {
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+  border-radius: 8px;
+  padding: .35rem 0;
+  min-width: 200px;
+}
+
+/* Submenu items */
+.masthead .greedy-nav ul.sub-menu li a {
+  display: block;
+  padding: .5rem 1rem;
+  white-space: nowrap;
+}
+.masthead .greedy-nav ul.sub-menu li a:hover {
+  background: rgba(0,0,0,.04);
 }
 
