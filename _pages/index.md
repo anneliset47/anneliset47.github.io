@@ -15,8 +15,6 @@ excerpt: "I build ML models and data apps that turn messy data into clear decisi
   <a class="btn btn--primary" href="/downloads/Annelise_Thorn_Resume.pdf">Download résumé</a>
 </p>
 
-{% include feature_row id="feature_row" %}
-
 ## Let’s connect
 
 I’m open to data science positions and research collaborations.
