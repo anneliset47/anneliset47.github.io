@@ -11,7 +11,7 @@
 /* --- Feature row image tweaks --- */
 .feature__wrapper .archive__item-teaser {
   display: flex;
-  justify-content: center;   /* center horizontally */
+  justify-content: left;   /* align left */
 }
 
 .feature__wrapper .archive__item-teaser img {
