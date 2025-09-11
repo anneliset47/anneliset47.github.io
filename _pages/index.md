@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
-excerpt: "I build ML models and data apps that turn messy data into clear decisions — with Python, SQL, and dashboards."
+excerpt: "I build ML models and interactive dashboards that help businesses optimize operations and make data-driven decisions."
 ---
 
 <p class="page-cta">
