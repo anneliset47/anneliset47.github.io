@@ -34,3 +34,13 @@ author: Annelise Thorn
 search: true
 breadcrumbs: true
 
+# hide the RSS/Atom link
+atom_feed:
+  hide: true
+
+# no footer links at all
+footer:
+  links: []
+
+# remove the copyright line (leave it empty)
+copyright: ""
