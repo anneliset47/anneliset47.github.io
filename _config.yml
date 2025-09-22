@@ -1,4 +1,5 @@
-title: "Data Science Portfolio"
+title: ""
+seo_title: "Data Science Portfolio"
 description: "Portfolio"
 url: "https://anneliset47.github.io"
 baseurl: ""  # for user/username.github.io sites
@@ -44,3 +45,5 @@ footer:
 
 # remove the copyright line (leave it empty)
 copyright: ""
+
+
