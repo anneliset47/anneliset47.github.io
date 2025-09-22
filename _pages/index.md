@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hi, I’m Annelise"
+# title: "Hi, I’m Annelise"
 permalink: /
 header:
   overlay_color: "#000"
