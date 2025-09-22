@@ -3,6 +3,9 @@ description: "Portfolio"
 url: "https://anneliset47.github.io"
 baseurl: ""  # for user/username.github.io sites
 
+# Favicon
+favicon: /assets/images/logo.svg
+
 # use Minimal Mistakes via GitHub Pages
 remote_theme: "mmistakes/minimal-mistakes"
 
